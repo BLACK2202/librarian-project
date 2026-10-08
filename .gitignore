@@ -1,0 +1,6 @@
+data/index/
+data/requests.jsonl
+data/feedback.jsonl
+eval/generation_results.json
+__pycache__/
+.env

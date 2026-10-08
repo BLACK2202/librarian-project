@@ -1,0 +1,2 @@
+{"id": "q001", "question": "REPLACE: a question about your corpus?", "answer": "REPLACE: the correct answer", "source_doc": "REPLACE_doc_id_(filename_without_extension)", "source_passage": "REPLACE: exact passage from the source that contains the answer"}
+{"id": "q002", "question": "REPLACE: a question the corpus can NOT answer (keep ~10% of these)", "answer": "I don't know", "source_doc": null, "source_passage": ""}
